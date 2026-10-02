@@ -2,9 +2,9 @@ public class evidence
 {
     private string evidencePhrase;
 
-    public evidence()
+    public evidence(string putEvidenceHere)
     {
-        evidencePhrase = 
+        evidencePhrase = putEvidenceHere;
     }
 
     public string getEvidence()
