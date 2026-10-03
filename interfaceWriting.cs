@@ -24,3 +24,6 @@ Console.Writeline("You are currently on the writing branch.");
 
 Console.Writeline("Please enter a type of writing");
 //cer, email, something, idk
+//coding on a phone rn sucks
+Console.WriteLine("1. Email 2. Evidence/Reasoning");
+//ok i cant deal with this on phone, note to bring a keyboard next time
